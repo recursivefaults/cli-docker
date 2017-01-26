@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker run -it --name $1 --env CONTAINER_NAME=$1 -v /var/run/docker.sock:/var/run/docker.sock 3d92148c911e 

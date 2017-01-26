@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/ryanlatta/Documents/Code/thoughtworks/swisschocolate/excel-validation'
+let g:netrw_dirhist_2='/Users/ryanlatta/Documents/Code/thoughtworks/swisschocolate/alpfi/fastlane'
+let g:netrw_dirhist_3='/Users/ryanlatta/Documents/Code/thoughtworks/swisschocolate/ra-web/node_modules'
+let g:netrw_dirhist_4='/Users/ryanlatta/Documents/Code/thoughtworks/swisschocolate/test'
+let g:netrw_dirhist_5='/Users/ryanlatta/Documents/Code/thoughtworks/swisschocolate/alpfi/ui-test'
+let g:netrw_dirhist_6='/Users/ryanlatta/Documents/Code/thoughtworks/swisschocolate/ra-web/src'
+let g:netrw_dirhist_7='/Users/ryanlatta/Documents/Code/thoughtworks/swisschocolate/ra-web'
